@@ -1,0 +1,7 @@
+S ABE
+S a
+A p
+A t
+B Aq
+S f
+A w
